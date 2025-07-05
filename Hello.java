@@ -4,6 +4,6 @@ public class Hello{
 		hiFromMac("Balakrishna");
 	}
 	public static void hiFromMac(String message){
-		System.out.println("Hello" + message + "MacBook Air");
+		System.out.println("Hello " + message + " - MacBook Air");
 	}
 }
