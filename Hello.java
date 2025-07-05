@@ -6,4 +6,7 @@ public class Hello{
 	public static void hiFromMac(String message){
 		System.out.println("Hello " + message + " - MacBook Air");
 	}
+	public static void Welcome(String message){
+		System.out.println("Welcome " + message );
+	}
 }
