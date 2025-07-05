@@ -1,8 +1,9 @@
 public class Hello{
 
 	public static void main(String[] args){
-		for(int i=0; i<5; i++){
-		System.out.println("Hello MacBook Air");
-		}
-}
+		hiFromMac("Balakrishna");
+	}
+	public static void hiFromMac(String message){
+		System.out.println("Hello" + message + "MacBook Air");
+	}
 }
